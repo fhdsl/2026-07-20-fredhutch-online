@@ -91,6 +91,9 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+<h2 id="register">Registration</h2>
+
+<a href="https://forms.gle/YckKAQkhZoQx2TS67">Use this link to register.</a> Please also take the pre-course survey (see below).
 
 <h2 id="general">General Information</h2>
 
