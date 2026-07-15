@@ -93,6 +93,8 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="register">Registration</h2>
 
+PLEASE NOTE THAT THIS WORKSHOP HAS BEEN CANCELED. Use the link to register in case we reschedule.
+
 <a href="https://forms.gle/YckKAQkhZoQx2TS67">Use this link to register.</a> Please also take the pre-course survey (see below).
 
 <h2 id="general">General Information</h2>
